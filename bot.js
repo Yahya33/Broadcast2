@@ -82,7 +82,17 @@ m.sendMessage(args)
 
        #Dbc  |  لأرسال برود كاست للأونلاين
 
-       #Dadminbc | برودكاست عادي
+      #Dadminbc |برودكاست عادي
+
+      #Dsetgame | لتعيين بلاينق البوت
+
+      #Dsetwatch | لتعيين واتشينقالبوت
+
+      #Dsetlist | لتعيين ليستينينق البوت
+
+      #Dsetname | لتغيير اسم البوت
+
+      #Dsetavatar| لتغيير صورة البوت
 
        ** `)
    message.author.sendEmbed(embed)
